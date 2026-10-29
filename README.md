@@ -71,7 +71,7 @@ YottaFlex-Assessment/
 |-- README.md
 ```
 
-Generated outputs and local data are excluded from Git where configured in `.gitignore`.
+Generated output CSVs and run reports are excluded from Git via `.gitignore`. The supplied customer, order, and product CSVs are tracked as assessment input data.
 
 ## 5. Data Dictionary
 
